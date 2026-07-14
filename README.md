@@ -2,6 +2,11 @@
 
 This project analyzes the 2024 StackOverflow Developer Survey to understand AI tool adoption patterns among developers. The analysis follows the CRISP-DM methodology and includes machine learning models, SHAP interpretability analysis, and Aequitas bias/fairness auditing.
 
+## Blog Post
+
+The Medium blog post accompanying this repo can be found [here](Medium Blog Post: https://medium.com/@andaluri/the-ai-revolution-in-software-development-what-65-000-developers-reveal-about-the-future-of-coding-41aa8e0a433f
+).
+
 ## Project Summary
 
 - **Dataset**: 2024 StackOverflow Developer Survey (65,437 respondents, 114 features)
