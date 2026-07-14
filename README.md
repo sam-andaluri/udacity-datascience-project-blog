@@ -4,7 +4,7 @@ This project analyzes the 2024 StackOverflow Developer Survey to understand AI t
 
 ## Blog Post
 
-The Medium blog post accompanying this repo can be found [here](Medium Blog Post: https://medium.com/@andaluri/the-ai-revolution-in-software-development-what-65-000-developers-reveal-about-the-future-of-coding-41aa8e0a433f
+The Medium blog post accompanying this repo can be found [here](https://medium.com/@andaluri/the-ai-revolution-in-software-development-what-65-000-developers-reveal-about-the-future-of-coding-41aa8e0a433f
 ).
 
 ## Project Summary
